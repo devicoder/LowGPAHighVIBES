@@ -1,0 +1,19 @@
+0:
+    bio: "I am parth./"
+    degree: "Computer Science"
+    id: "WkIqbQTBDMzA3UXnUHnn"
+    name: "Parth Vibing"
+    timestamp: 
+        Timestamp {seconds: 1745642123, nanoseconds: 32000000}
+    units: Array(1)
+        0: "FIT1058"
+        length: 1
+    [[Prototype]]
+    : 
+    Array(0)
+    [[Prototype]]
+    : 
+
+
+
+[{availability:{friday:[0630, 0745, 1200, 1400], tuesday:[4], thursday:[], monday:[], wedenesday:[]}, bio:"I am parth./", degree:"Computer Science", id: "WkIqbQTBDMzA3UXnUHnn", name: "Parth Vibing", timestamp: "this doesnt matter", units: ["FIT1058"]}, {bio:"sample bio 2", degree:"sampledegree2", id: "WkIqbQTBDMzA3UXnUHnn", name: "Parth Vibing", timestamp: "this doesnt matter", units: ["FIT1058", "BIO1001", "PHYS1001']}]
